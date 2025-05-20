@@ -23,7 +23,7 @@ Comecei com macros, depois descobri o Power BI... e agora estou explorando Pytho
 - Construindo projetos práticos para unir gestão e tecnologia.  
 
 📫 **Conecte-se**:  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](www.linkedin.com/in/ariovaldo-da-silva-cunha-680886362)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ariovaldo-da-silva-cunha-680886362)
 
 ### 🤖 Linguagens e Tecnologias
 
